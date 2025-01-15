@@ -1,1 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/IKHmu6Mx)
+# 360Player
+How to make 360 VR Player Using Unity 3D, Easy Movie Texture and Google VR SDK
+
+You can purchase Easy Movie Textures from Unity Asset Stores: https://www.assetstore.unity3d.com/en/#!/content/10032
+
+Easy Movie Textures supports StreamingAssets, external storage, and streaming services. 
+
+Android streaming support list: http, HLS (http live streaming),rtsp (Does not support HLS FMP4)
+
+iOS streaming support list: http,HLS (http live streaming) 
